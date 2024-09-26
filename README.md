@@ -1,1 +1,3 @@
-# LeetCodeSolutions
+# LeetCode Solutions
+
+Pretty self-explanatory.
