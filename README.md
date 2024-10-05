@@ -1,3 +1,3 @@
 # LeetCode Solutions
 
-Pretty self-explanatory.
+Just documenting the LeetCode grind :sunglasses:
